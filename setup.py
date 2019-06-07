@@ -1,7 +1,7 @@
 from distutils.core import setup
 
 setup(name='hostip.info',
-      version='1.0.1',
+      version='1.0.2',
       description='Object oriented wrapper for hostip.info',
       long_description='An object oriented wrapper for hostip.info\'s API',
       author='sl4v',

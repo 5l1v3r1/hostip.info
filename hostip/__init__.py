@@ -37,9 +37,7 @@ class IP:
         country_name = ''.join(country_name)
         self.country_name = country_name
         self.country_code = country_code
-        city_and_state = city_and_state
-        self.city = city
-        self.state = state
+        self.city_and_state = city_and_state
         self.lat = lat
         self.lng = lng
         self.coordinates = lat + ',' + lng
